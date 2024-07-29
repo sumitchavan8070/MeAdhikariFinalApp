@@ -8,4 +8,4 @@
 # 2. sumit@sumit-IdeaPad-3-15ALC6-Ub:~/Project/App/meadhikari$ npx expo install --check
 # 3. sumit@sumit-IdeaPad-3-15ALC6-Ub:~/Project/App/meadhikari$ eas build -p android --profile preview
 
-# give me the login credentials 
+# Sumit asks : give me the login credentials 
