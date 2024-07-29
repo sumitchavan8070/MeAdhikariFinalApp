@@ -9,3 +9,4 @@
 # 3. sumit@sumit-IdeaPad-3-15ALC6-Ub:~/Project/App/meadhikari$ eas build -p android --profile preview
 
 # Sumit asks : give me the login credentials 
+# api kashi manage kartoy local api ??
